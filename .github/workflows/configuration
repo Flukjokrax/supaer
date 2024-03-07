@@ -1,0 +1,3 @@
+# Create the runner and start the configuration experience
+$ ./config.cmd --url https://github.com/Flukjokrax/supaer --token AZJU6YTU2KJUCIVOTZ6WWVLF5JQNU# Run it!
+$ ./run.cmd
