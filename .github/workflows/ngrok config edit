@@ -1,0 +1,7 @@
+version: 2
+authtoken: 2cv9bCZ2pC23x4SiBNoY7JVkz86_3aBEmEb47SEBSS9C4oNw3
+tunnels:
+  my_tunnel_name:
+    labels:
+      - edge=edghts_2dIlRZoujAx2IAErI2kzd1WrWjY
+    addr: http://localhost:80
